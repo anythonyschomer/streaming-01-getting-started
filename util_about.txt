@@ -1,0 +1,27 @@
+
+======================================================================
+======================================================================
+ Welcome to the NW Python Debugging Information Utility!
+ Date and Time: 2024-05-02 at 09:42 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 8
+ Machine Type: AMD64
+ Python Version: 3.11.5
+ Python Build Date and Compiler: main with Sep 11 2023 13:26:23
+ Python Implementation: CPython
+ Active pip environment:   None
+ Active conda environment: None
+ Path to Interpreter:         C:\Users\14029\anaconda3\python.exe
+ Path to virtual environment: C:\Users\14029\anaconda3
+ Current Working Directory:   C:\Users\14029\Streaming Data\streaming-01-getting-started
+ Path to source directory:    c:\Users\14029\Streaming Data\streaming-01-getting-started
+ Path to script file:         c:\Users\14029\Streaming Data\streaming-01-getting-started\util_about.py
+ User's Home Directory:       C:\Users\14029
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Preferred command:           python
+ Is python available in PATH:   True
+ Is git available in PATH:      True 
+======================================================================
+======================================================================

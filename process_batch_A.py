@@ -9,8 +9,9 @@ This is a batch process, but the file objects we use are
 often called 'file-like objects' or 'streams'.
 Streaming differs in that the input data is unbounded.
 
-Use logging, very helpful when working with batch and streaming processes. 
-"""
+Use logging, very helpful when working with batch and streaming processes.
+
+NAME: Anthony Schomer"""
 
 # Import from Python Standard Library
 
@@ -94,3 +95,10 @@ if __name__ == "__main__":
         logging.info("===============================================")
     except Exception as e:
         logging.error(f"An error occurred: {e}")
+
+
+Name = "Anthony Schomer"
+Course = "44671 Streaming Data"
+sessions = "summer 2024 - block 1"
+
+print("Hello! I am {} and i am taking {} during the {} session.".format(Name, Course, sessions))
